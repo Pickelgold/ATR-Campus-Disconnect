@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ATR Campus Disconnect</string>
+    <string name="title_home">Home</string>
+    <string name="title_help">Help</string>
+    <string name="title_biometrics">Biometrics</string>
+    <string name="title_logout">Logout</string>
+</resources>
